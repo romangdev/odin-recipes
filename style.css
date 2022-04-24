@@ -1,7 +1,26 @@
-h1 {
+body {
+    background-color: lightyellow;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: darkblue;
+}
+
+.homepage-head {
     text-align: center;
 }
 
-li {
+.homepage-links {
     font-size: 24px;
+}
+
+img {
+    height: auto;
+    width: 400px;
+}
+
+p {
+    font-size: 30px;
+}
+
+li {
+    color: hsl(0, 96%, 56%);
 }
